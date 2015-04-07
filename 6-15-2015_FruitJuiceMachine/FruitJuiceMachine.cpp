@@ -1,3 +1,5 @@
+//Copied from a book, program by the dude who wrote it D.S. Malik
+
 #include <iostream>
 #include "cashRegister.h"
 #include "dispenserType.h"
